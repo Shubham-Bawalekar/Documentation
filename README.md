@@ -1,2 +1,2 @@
 # Landing_page
-Technical landing page project.
+Technical documentation page project.
